@@ -1,7 +1,9 @@
 {
   "name": "jsaml",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "An object literal parser with yaml-like syntax",
+  "keywords": ["yaml", "parser", "serializer", "object litaral", "es6"],
+  "homepage": "https://github.com/pistacchio/jsaml",
   "main": "jsaml.js",
   "scripts": {
     "test": "mocha test/test.js"
