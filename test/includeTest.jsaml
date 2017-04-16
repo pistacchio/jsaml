@@ -1,0 +1,6 @@
+included:
+    property1: 42
+    property2:
+        - a
+        - b
+        - c

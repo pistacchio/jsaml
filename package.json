@@ -1,0 +1,16 @@
+{
+  "name": "jsaml",
+  "version": "1.0.0",
+  "description": "An object literal parser with yaml-like syntax",
+  "main": "jsaml.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "pistacchio@gmail.com",
+  "license": "GPL",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "js-yaml": "^3.6.1",
+    "mocha": "^3.2.0"
+  }
+}
