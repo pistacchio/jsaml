@@ -1,6 +1,6 @@
 # Jsaml
 
-Jsaml is (YAML)[http://yaml.org/] extension for javascript that allows to define functions, getters, setters and include other Jsaml files converting the Jsaml source file into a ES6 object litaral.
+Jsaml is [YAML](http://yaml.org/) extension for javascript that allows to define functions, getters, setters and include other Jsaml files converting the Jsaml source file into a ES6 object litaral.
 
 ## Usage
 
